@@ -1,0 +1,16 @@
+{
+  "name": "automate-chainlink-functions",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "A.U.J. Lode",
+  "license": "MIT",
+  "dependencies": {
+    "@chainlink/functions-toolkit": "^0.2.7",
+    "dotenv": "^16.4.5",
+    "ethers": "^5.7.2"
+  }
+}
